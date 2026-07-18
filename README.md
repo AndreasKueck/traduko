@@ -26,7 +26,7 @@ Post kiam la uzanto estas startiginta per la menuo la agojn de makroo `traduko_1
 
 Temas do pri preskau realtempa traduko. Krome la transskribo kaj traduko estas konservataj en dosieroj. Jamaj tiaj dosieroj estas malplenigataj che chiu denova startigo de makroo `traduko_1`.
 
-Noto: La uzanto povas anstatauigi la cellingvon de traduko de Esperanto per alia lingvo, anstatauante en ago `AI-LLM-peto` de makroo `traduko_2` vorton "Esperanton" per la nomo de la anstataue celata lingvo, ekzemple "la germanan".
+Noto: La uzanto povas specifi cellingvon de la traduko alian, ol Esperanto, jene: En ago `AI-LLM-peto` de makroo `traduko_2` la uzanto anstatauigas vorton "Esperanton" per la nomo de la anstataue celata lingvo, ekzemple "la germanan".
 
 ## Permesilo ("License")
 
