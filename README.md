@@ -1,6 +1,6 @@
 # Traduko
 
-Tiu chi GitHub-deponejo entenas [MacroDroid](https://www-macrodroid-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=de&_x_tr_pto=wapp)-makroojn por preskau realtempaj transskribo kaj traduko de la sono eniranta en la mikrofonan enigon.
+Tiu chi GitHub-deponejo entenas [MacroDroid](https://www-macrodroid-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=de&_x_tr_pto=wapp)-makroojn por preskau realtempaj transskribo kaj traduko Esperanten de la sono eniranta en la mikrofonan enigon.
 
 ## Antaukondichoj
 
@@ -21,10 +21,12 @@ Krome la uzanto bezonas validan OpenAI-API-shlosilon.
 
 Post kiam la uzanto estas startiginta per la menuo la agojn de makroo `traduko_1` ("Testi agojn"), ghi
 1. startigas sonregistron de la mikrofona enigo por malmultaj sekundoj,
-2. startigas makroon `traduko_2`, por transskribi kaj traduki la sonregistrajhon kaj surekranigi la tradukon, kaj krome
+2. startigas makroon `traduko_2`, por transskribi kaj traduki Esperanten la sonregistrajhon kaj surekranigi la tradukon, kaj krome
 3. ripetas ekde 1, ghis la uzanto malaktivigas makroon `traduko_1` per la menuo.
 
 Temas do pri preskau realtempa traduko. Krome la transskribo kaj traduko estas konservataj en dosieroj. Jamaj tiaj dosieroj estas malplenigataj che chiu denova startigo de makroo `traduko_1`.
+
+Noto: La uzanto povas anstatauigi la celingvon de traduko de Esperanto per alia lingvo, anstatauante en ago `AI-LLM-peto` de makroo `traduko_2` vorton "Esperanton" per la nomo de la celata lingvo, ekzemple "la germanan".
 
 ## Permesilo ("License")
 
