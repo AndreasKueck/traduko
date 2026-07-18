@@ -23,6 +23,7 @@ Post kiam la uzanto estas startiginta per la menuo la agojn de makroo `traduko_1
 1. startigas sonregistron de la mikrofona enigo por malmultaj sekundoj,
 2. startigas makroon `traduko_2`, por transskribi kaj traduki la sonregistrajhon kaj surekranigi la tradukon, kaj krome
 3. ripetas ekde 1, ghis la uzanto malaktivigas makroon `traduko_1` per la menuo.
+
 Temas do pri preskau realtempa traduko. Krome la transskribo kaj traduko estas konservataj en dosieroj. Jamaj tiaj dosieroj estas malplenigataj che chiu denova startigo de makroo `traduko_1`.
 
 ## Permesilo ("License")
