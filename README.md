@@ -14,7 +14,7 @@ Krome la uzanto bezonas validan OpenAI-API-shlosilon.
 2. Malfermu apon MacroDroid.
 3. En ghin importu la elshutitan makroo-dosieron `traduko_1.macro` trovighantan en via smartfono.
 4. Donu chiujn necesajn permesojn al MacroDroid.
-5. Ripetu pashojn 1 ghis 4 por la elshutita makroo-dosiero `traduko_2.macro`.
+5. Ripetu pashojn 3 ghis 4 por la elshutita makroo-dosiero `traduko_2.macro`.
 6. En ties agoj `Shell Script` kaj `AI-LLM-peto` anstatauigu la shablonan OpenAI-API-shlosilon per valida OpenAI-API-shlosilo kaj konservu chion.
 
 ## Jen kiel funkcias la makrooj
