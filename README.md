@@ -1,6 +1,6 @@
 # Traduko
 
-Tiu chi GitHub-deponejo entenas [MacroDroid](https://www-macrodroid-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=de&_x_tr_pto=wapp)-makroojn por preskau realtempaj transskribo kaj traduko Esperanten de la sono eniranta en la mikrofonan enigon.
+Tiu chi GitHub-deponejo entenas [MacroDroid](https://www-macrodroid-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=de&_x_tr_pto=wapp)-makroojn por preskau realtempaj transskribo kaj traduko Esperanten (au alilingven) de la sono eniranta en la mikrofonan enigon.
 
 ## Antaukondichoj
 
